@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFiveLoops\DayFiveLoops\bin\Debug\DayFiveLoops.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFiveLoops\DayFiveLoops\bin\Debug\DayFiveLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFiveLoops\DayFiveLoops\bin\Debug\DayFiveLoops.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFiveLoops\DayFiveLoops\obj\Debug\DayFiveLoops.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFiveLoops\DayFiveLoops\obj\Debug\DayFiveLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFiveLoops\DayFiveLoops\obj\Debug\DayFiveLoops.pdb
